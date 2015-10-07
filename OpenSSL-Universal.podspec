@@ -22,8 +22,7 @@ Pod::Spec.new do |s|
                      'Paul C. Sutton' => 'geoff@openssl.org',
                      'Eric A. Young' => 'eay@cryptsoft.com',
                      'Tim Hudson' => 'tjh@cryptsoft.com',
-                     'Justin Plouffe' => 'plouffe.justin@gmail.com',
-                     'Vladimir Bilyov' => 'vladimir.bilyov@gmail.com'}
+                     'Justin Plouffe' => 'plouffe.justin@gmail.com'}
   
   s.ios.platform          = :ios, '6.0'
   s.ios.deployment_target = '6.0'
